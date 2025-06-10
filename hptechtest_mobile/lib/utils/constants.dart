@@ -1,0 +1,1 @@
+const int SESSION_DURATION_MS = 30 * 60 * 1000;
